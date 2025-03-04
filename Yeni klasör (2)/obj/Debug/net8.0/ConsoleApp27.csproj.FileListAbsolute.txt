@@ -1,0 +1,28 @@
+C:\Users\Tuğ\source\repos\ConsoleApp27\bin\Debug\net8.0\ConsoleApp27.exe
+C:\Users\Tuğ\source\repos\ConsoleApp27\bin\Debug\net8.0\ConsoleApp27.deps.json
+C:\Users\Tuğ\source\repos\ConsoleApp27\bin\Debug\net8.0\ConsoleApp27.runtimeconfig.json
+C:\Users\Tuğ\source\repos\ConsoleApp27\bin\Debug\net8.0\ConsoleApp27.dll
+C:\Users\Tuğ\source\repos\ConsoleApp27\bin\Debug\net8.0\ConsoleApp27.pdb
+C:\Users\Tuğ\source\repos\ConsoleApp27\obj\Debug\net8.0\ConsoleApp27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuğ\source\repos\ConsoleApp27\obj\Debug\net8.0\ConsoleApp27.AssemblyInfoInputs.cache
+C:\Users\Tuğ\source\repos\ConsoleApp27\obj\Debug\net8.0\ConsoleApp27.AssemblyInfo.cs
+C:\Users\Tuğ\source\repos\ConsoleApp27\obj\Debug\net8.0\ConsoleApp27.csproj.CoreCompileInputs.cache
+C:\Users\Tuğ\source\repos\ConsoleApp27\obj\Debug\net8.0\ConsoleApp27.dll
+C:\Users\Tuğ\source\repos\ConsoleApp27\obj\Debug\net8.0\refint\ConsoleApp27.dll
+C:\Users\Tuğ\source\repos\ConsoleApp27\obj\Debug\net8.0\ConsoleApp27.pdb
+C:\Users\Tuğ\source\repos\ConsoleApp27\obj\Debug\net8.0\ConsoleApp27.genruntimeconfig.cache
+C:\Users\Tuğ\source\repos\ConsoleApp27\obj\Debug\net8.0\ref\ConsoleApp27.dll
+C:\Users\Tuğ\Desktop\Yeni klasör (2)\bin\Debug\net8.0\ConsoleApp27.exe
+C:\Users\Tuğ\Desktop\Yeni klasör (2)\bin\Debug\net8.0\ConsoleApp27.deps.json
+C:\Users\Tuğ\Desktop\Yeni klasör (2)\bin\Debug\net8.0\ConsoleApp27.runtimeconfig.json
+C:\Users\Tuğ\Desktop\Yeni klasör (2)\bin\Debug\net8.0\ConsoleApp27.dll
+C:\Users\Tuğ\Desktop\Yeni klasör (2)\bin\Debug\net8.0\ConsoleApp27.pdb
+C:\Users\Tuğ\Desktop\Yeni klasör (2)\obj\Debug\net8.0\ConsoleApp27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuğ\Desktop\Yeni klasör (2)\obj\Debug\net8.0\ConsoleApp27.AssemblyInfoInputs.cache
+C:\Users\Tuğ\Desktop\Yeni klasör (2)\obj\Debug\net8.0\ConsoleApp27.AssemblyInfo.cs
+C:\Users\Tuğ\Desktop\Yeni klasör (2)\obj\Debug\net8.0\ConsoleApp27.csproj.CoreCompileInputs.cache
+C:\Users\Tuğ\Desktop\Yeni klasör (2)\obj\Debug\net8.0\ConsoleApp27.dll
+C:\Users\Tuğ\Desktop\Yeni klasör (2)\obj\Debug\net8.0\refint\ConsoleApp27.dll
+C:\Users\Tuğ\Desktop\Yeni klasör (2)\obj\Debug\net8.0\ConsoleApp27.pdb
+C:\Users\Tuğ\Desktop\Yeni klasör (2)\obj\Debug\net8.0\ConsoleApp27.genruntimeconfig.cache
+C:\Users\Tuğ\Desktop\Yeni klasör (2)\obj\Debug\net8.0\ref\ConsoleApp27.dll
